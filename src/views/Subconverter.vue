@@ -250,6 +250,16 @@ export default {
             ]
           },
           {
+            label: "ACL4SSR",
+            options: [
+              {
+                label: "ACL4SSR_Online_Full",
+                value:
+                  "https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/config/ACL4SSR_Online_Full.ini"
+              },
+            ]
+          },
+          {
             label: "customized",
             options: [
               {
